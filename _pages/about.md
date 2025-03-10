@@ -61,7 +61,7 @@ Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
 
 
 # 📖 Educations
-- *2020.09 - 2024.06*, AIA, Huazhong University of Science and Technology.
-- *2015.09 - 2019.06*, AIA,Huazhong University of Science and Technology.
+- *2024.09 - Present*, Huazhong University of Science and Technology (Master Student).
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology (Undergraduate Student).
 
 
