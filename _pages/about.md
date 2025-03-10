@@ -42,7 +42,17 @@ FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object De
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/sgdocc.png' 
+alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
+SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
+
+Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2024.10* First Class Scholarship
