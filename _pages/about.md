@@ -26,7 +26,7 @@ Univerversity of Science and Technology. I was conferred the Bachelor's degree b
 - ...
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by CVPR2025! 
+- *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025)! 
 
 # 📝 Publications 
 
