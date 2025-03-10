@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🙋 About Me
 I am currently a first-year master's student at the School of Artificial Intelligeence and Automation, Huazhong 
 Univerversity of Science and Technology. I was conferred the Bachelor's degree by AIA in June 2024. 
 
