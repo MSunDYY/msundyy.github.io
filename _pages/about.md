@@ -56,7 +56,7 @@ Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
 
 # 🎖 Honors and Awards
 - *2024.10* First Class Scholarship
-- *2020.11* FiberHome Scholarship
+- *2022.11* FiberHome Scholarship
 - *2022.10* Merit Student Scholarship.
 
 
