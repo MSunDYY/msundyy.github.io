@@ -29,7 +29,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/faster.png' 
+alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object Detection
@@ -38,7 +39,8 @@ FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object De
 
 [**Paper**]((https://arxiv.org/abs/2503.01899))
 [**Project**](https://github.com/MSunDYY/FASTer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
