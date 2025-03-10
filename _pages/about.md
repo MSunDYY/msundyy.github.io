@@ -21,7 +21,7 @@ I am currently a first-year master's student at the School of Artificial Intelli
 Univerversity of Science and Technology. I was conferred the Bachelor's degree by AIA in June 2024. 
 
 # 💖 Research Interests
-- 3D Environmental Perception
+- 3D Environment Perception
 - Autonomous Driving
 - ...
 
@@ -44,7 +44,7 @@ FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object De
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/sgdocc.png' 
 alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 
 Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
