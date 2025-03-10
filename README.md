@@ -20,7 +20,7 @@ AcadHomepage
 </p>
 
 Some examples:
-- [Demo Page](https://rayeren.github.io/msundyy.github.io/)
+- [Demo Page](https://msundyy.github.io/msundyy.github.io/)
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
