@@ -37,8 +37,7 @@ FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object De
 
 **Chenxu Dang**, Zaipeng Duan, Pei An, Xinmin Zhang, Xuzhong Hu, Jie Ma*
 
-[**Paper**](https://arxiv.org/abs/2503.01899)
-[**Project**](https://github.com/MSunDYY/FASTer) 
+[**Paper**](https://arxiv.org/abs/2503.01899)  [**Project**](https://github.com/MSunDYY/FASTer) 
 </div>
 </div>
 
