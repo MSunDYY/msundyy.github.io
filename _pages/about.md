@@ -31,8 +31,9 @@ My research interests include multimodal large language models (MLLM), reinforce
 - E2E Autonomous Driving
 
 # 🔥 News
-- *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine**
-- *2026.01*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA**
+- *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine** that investigates dLLM-RL with refinement for AD. 
+- *2026.01*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA** that effectively integrates occupancy with VLMs via sparse queries.
+- *2025.10*  &nbsp; We release the [paper](https://arxiv.org/abs/2510.17482) and [code](https://github.com/MSunDYY/SparseWorld) of **SparseWorld**, an efficient occupancy world model powered by sparse queries. 
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI2026**!
 - *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by **CVPR2025**! 
 
@@ -92,7 +93,9 @@ alt="sym" width="100%"></div></div>
 SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 
 Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf)  [**Code**](https://github.com/DzpLab/SDGOCC) 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf)  
+
+[**Code**](https://github.com/DzpLab/SDGOCC) 
 </div>
 </div>
 
