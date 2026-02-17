@@ -17,18 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋 About Me
-I am currently a first-year master's student at the School of Artificial Intelligeence and Automation, Huazhong 
+I am currently a second-year master's student at the School of Artificial Intelligeence and Automation, Huazhong 
 Univerversity of Science and Technology. I was conferred the Bachelor's degree by AIA in June 2024. 
 
+Since March 2025, I have been a research intern at the Institute for AI Industry Research (AIR), Tsinghua University, under the supervision of [Yan Wang](https://scholar.google.com/citations?user=QOZnsYYAAAAJ&hl=zh-CN).
+Since July 2025, I have been an intern at the Autonomous Driving and Robotics Department of Xiaomi EV, supervised by [Long Chen](https://scholar.google.com/citations?user=c-sthYIAAAAJ&hl=zh-CN) and [Yan Wang](https://scholar.google.com/citations?user=QOZnsYYAAAAJ&hl=zh-CN).
+
+My research interests include multimodal large language models (MLLM), reinforcement learning, world models, and their applications in end-to-end autonomous driving. Looking ahead, I plan to shift toward general multimodal understanding and generation. I welcome discussions and potential collaborations.
+
 # 💖 Research Interests
-- 3D Environment Perception
-- Autonomous Driving
-- ...
+- Multi-Modal Large Language Model
+- Reinforcement Learning
+- E2E Autonomous Driving
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025)! 
+- *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine**
+- *2026.1*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA**
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI2026**!
+- *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by **CVPR2025**! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/drivefine.png' 
+alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving
+
+**Chenxu Dang**, Sining Ang, Yongkang Li, Haochen Tian, Jie Wang, Guang Li, Hangjun Ye, Jie Ma, Long Chen*, Yan Wang*
+
+[**Paper**](https://arxiv.org/abs/2602.14577)  [**Code**](https://github.com/MSunDYY/DriveFine) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/sparseoccvla.png' 
+alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning
+
+**Chenxu Dang**, Jie Wang, Guang Li, Zhiwen Hou, Zihan You, Hangjun Ye, Jie Ma, Long Chen*, Yan Wang*
+
+[**Paper**](https://arxiv.org/abs/2601.06474)  [**Code**](https://github.com/MSunDYY/SparseOccVLA)  [**Project**](https://msundyy.github.io/SparseOccVLA/)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/sparseworld.png' 
+alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model
+Powered by Sparse and Dynamic Queries
+
+**Chenxu Dang**, Haiyan Liu, Jason Bao, Pei An, Xinyue Tang, PanAn, Jie Ma*, Bingchuan Sun*, Yan Wang*
+
+[**Paper**](https://arxiv.org/abs/2510.17482)  [**Code**](https://github.com/MSunDYY/SparseWorld) 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/faster.png' 
 alt="sym" width="100%"></div></div>
@@ -37,7 +82,7 @@ FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object De
 
 **Chenxu Dang**, Zaipeng Duan, Pei An, Xinmin Zhang, Xuzhong Hu, Jie Ma*
 
-[**Paper**](https://arxiv.org/abs/2503.01899)  [**Project**](https://github.com/MSunDYY/FASTer) 
+[**Paper**](https://arxiv.org/abs/2503.01899)  [**Code**](https://github.com/MSunDYY/FASTer) 
 </div>
 </div>
 
@@ -47,10 +92,19 @@ alt="sym" width="100%"></div></div>
 SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 
 Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
-
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf)  [**Code**](https://github.com/DzpLab/SDGOCC) 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/hybriddrivevla.png' 
+alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving
+
+Sining Ang, Yuguang Yang, **Chenxu Dang**, Canyu Chen, Cheng Chi, Haiyan Liu, Xuanyao Mao, Jason Bao, Xuliang, Bingchuan Sun, Yan Wang*
+[**Paper**](https://arxiv.org/abs/2602.10719)
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
