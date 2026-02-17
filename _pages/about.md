@@ -93,9 +93,8 @@ alt="sym" width="100%"></div></div>
 SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 
 Zaipeng Duan, **Chenxu Dang**, Pei An, Xuzhong Hu, Jie Zhan, Jie Ma*
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf)  
 
-[**Code**](https://github.com/DzpLab/SDGOCC) 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf)  [**Code**](https://github.com/DzpLab/SDGOCC) 
 </div>
 </div>
 
