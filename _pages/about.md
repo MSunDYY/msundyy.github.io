@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋 About Me
-I am currently a second-year master's student at the School of Artificial Intelligeence and Automation, Huazhong 
-Univerversity of Science and Technology. I was conferred the Bachelor's degree by AIA in June 2024. 
+I am currently a second-year master's student at the School of Artificial Intelligeence and Automation (AIA), Huazhong 
+Univerversity of Science and Technology (HUST). I was conferred the Bachelor's degree by AIA in June 2024. 
 
 Since March 2025, I have been a research intern at the Institute for AI Industry Research (AIR), Tsinghua University, under the supervision of [Yan Wang](https://scholar.google.com/citations?user=QOZnsYYAAAAJ&hl=zh-CN).
 Since July 2025, I have been an intern at the Autonomous Driving and Robotics Department of Xiaomi EV, supervised by [Long Chen](https://scholar.google.com/citations?user=c-sthYIAAAAJ&hl=zh-CN) and [Yan Wang](https://scholar.google.com/citations?user=QOZnsYYAAAAJ&hl=zh-CN).
@@ -31,7 +31,7 @@ My research interests include multimodal large language models (MLLM), reinforce
 - E2E Autonomous Driving
 
 # 🔥 News
-- *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine** that investigates dLLM-RL with refinement for AD. 
+- *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine** that investigates dLLM+RL with refinement for AD. 
 - *2026.01*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA** that effectively integrates occupancy with VLMs via sparse queries.
 - *2025.10*  &nbsp; We release the [paper](https://arxiv.org/abs/2510.17482) and [code](https://github.com/MSunDYY/SparseWorld) of **SparseWorld**, an efficient occupancy world model powered by sparse queries. 
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI2026**!
