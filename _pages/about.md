@@ -32,7 +32,7 @@ My research interests include multimodal large language models (MLLM), reinforce
 
 # 🔥 News
 - *2026.02*  &nbsp; We release the [paper](https://arxiv.org/abs/2602.14577) of **DriveFine**
-- *2026.1*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA**
+- *2026.01*  &nbsp; We release the [paper](https://arxiv.org/abs/2601.06474) and [code](https://github.com/MSunDYY/SparseOccVLA) of **SparseOccVLA**
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI2026**!
 - *2025.02*: &nbsp;🎉🎉 Two of our papers are accepted by **CVPR2025**! 
 
@@ -102,6 +102,7 @@ alt="sym" width="100%"></div></div>
 From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving
 
 Sining Ang, Yuguang Yang, **Chenxu Dang**, Canyu Chen, Cheng Chi, Haiyan Liu, Xuanyao Mao, Jason Bao, Xuliang, Bingchuan Sun, Yan Wang*
+
 [**Paper**](https://arxiv.org/abs/2602.10719)
 </div>
 </div>
@@ -116,5 +117,9 @@ Sining Ang, Yuguang Yang, **Chenxu Dang**, Canyu Chen, Cheng Chi, Haiyan Liu, Xu
 # 📖 Educations
 - *2024.09 - Present*, Huazhong University of Science and Technology (Master Student).
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology (Undergraduate Student).
+
+# 🚀 Internships
+- *2025.03 - Present*, Institute for AI Industry Research (AIR), Tsinghua University.
+- *2025.07 - Present*, Autonomous Driving and Robotics Department of Xiaomi EV (Beijing).
 
 

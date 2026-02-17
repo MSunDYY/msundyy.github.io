@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "MSunDYY"
-description              : "Huazhong University of Science and Technology in Wuhan. Majoring in 3D Environment 
-Perception and Autonomous Driving."
+description              : "Huazhong University of Science and Technology (Hust). Majoring in Multi-modal Large Language Model (MLLM), Reinforcement Learning (RL) and E2E Autonomous Driving."
 repository               : "MSunDYY/msundyy.github.io"
 google_scholar_stats_use_cdn : true
 
