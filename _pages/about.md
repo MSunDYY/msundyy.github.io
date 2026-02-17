@@ -119,7 +119,8 @@ Sining Ang, Yuguang Yang, **Chenxu Dang**, Canyu Chen, Cheng Chi, Haiyan Liu, Xu
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology (Undergraduate Student).
 
 # 🚀 Internships
-- *2025.03 - Present*, Institute for AI Industry Research (AIR), Tsinghua University.
 - *2025.07 - Present*, Autonomous Driving and Robotics Department of Xiaomi EV (Beijing).
+- *2025.03 - Present*, Institute for AI Industry Research (AIR), Tsinghua University.
+
 
 
